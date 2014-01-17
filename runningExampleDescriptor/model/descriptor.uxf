@@ -60,7 +60,7 @@
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>60</x>
-      <y>90</y>
+      <y>80</y>
       <w>280</w>
       <h>100</h>
     </coordinates>
@@ -186,13 +186,13 @@ bg=yellow</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>310</x>
-      <y>90</y>
+      <y>80</y>
       <w>210</w>
-      <h>70</h>
+      <h>80</h>
     </coordinates>
     <panel_attributes>lt=.
 </panel_attributes>
-    <additional_attributes>30;30;190;50</additional_attributes>
+    <additional_attributes>30;30;190;60</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
